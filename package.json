@@ -1,0 +1,25 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "todo apis for interns",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-tekion/todo-server.git"
+  },
+  "keywords": [
+    "todo-server"
+  ],
+  "author": "fahmad@tekion.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-tekion/todo-server/issues"
+  },
+  "homepage": "https://github.com/faheem-tekion/todo-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
